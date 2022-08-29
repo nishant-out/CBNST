@@ -2,6 +2,8 @@
 #include<math.h>
 
 /*
+Objective 1:	WAP in C, to deduce error involved in any polynomial equation ?
+
 	fabs() = used to find absolute value of float type values
 */
 
