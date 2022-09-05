@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+//	Bisection method in C lang.	( for finding Roots )
+
 float coef[ 3 ];
 float power[ 3 ];
 
